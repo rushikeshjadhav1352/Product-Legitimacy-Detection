@@ -166,20 +166,3 @@ Website:
 + QR codes which have secure graphic
 + Implement our own tokens which can be sold to users so that they can purchase ownership of a product using tokens which helps in insurance processing. 
 
-## Contributing <a name="contributing"></a>
-1. Fork it (<https://github.com/kylelobo/AuthentiFi/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
-
-## Authors <a name="authors"></a>
-+ [Calden Rodrigues](https://github.com/caldenrodrigues) <br>
-+ [JohnAnand Abraham](https://github.com/johnanand) <br>
-+ [Kyle Lobo](https://github.com/kylelobo) <br>
-+ [Pratik Nerurkar](https://github.com/PlayPratz) <br>
-
-See also the list of [contributors](https://github.com/kylelobo/AuthentiFi/contributors) who participated in this project.
-
-## Acknowledgements <a name="acknowledgements"></a>
-[How To: Create Your Own Private Ethereum Blockchain](https://medium.com/mercuryprotocol/how-to-create-your-own-private-ethereum-blockchain-dad6af82fc9f) - _Mercury Protocol_
