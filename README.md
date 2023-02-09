@@ -2,11 +2,7 @@
 
   
 
-  [![Hackathon](https://img.shields.io/badge/hackathon-SPIT-orange.svg)](http://csi.spit.ac.in/hackathon/) 
-  [![Status](https://img.shields.io/badge/status-inactive-red.svg)]() 
-  [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/AuthentiFi.svg)](https://github.com/kylelobo/AuthentiFi/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/AuthentiFi.svg)](https://github.com/kylelobo/AuthentiFi/pulls)
-  [![License](https://img.shields.io/badge/license-GNU-blue.svg)](LICENSE.md)
+ 
 
 </div>
 
